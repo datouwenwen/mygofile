@@ -9,3 +9,5 @@ package mygofile
 // modification 4
 
 // modification 5
+
+// modification 6
